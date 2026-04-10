@@ -3,7 +3,7 @@
 A complete, shareable reference for engineers and architects building 
 production AI agent systems.
 
-🔗 **[Live Guide →](https://yourusername.github.io/agentic-ai-guide)**
+🔗 **[Live Guide →](https://github.com/VinitMetange/Agentic_Ai_Guide/blob/main/agentic_ai_Guide.html)**
 
 ---
 
